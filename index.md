@@ -68,3 +68,6 @@ resemble a fairly conducted debate as exemplified
 by better people such as Richard Stallman.
 
 To sign, please [submit a pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+
+name: Gambit.VKM
+link: https://github.com/GambitVKM
